@@ -4,6 +4,9 @@ set number
 set showmatch
 set tabstop=4
 set shiftwidth=4
+set modeline
+set modelines=5
+set laststatus=2
 
 map <D-A-RIGHT> <C-w>l
 map <D-A-LEFT> <C-w>h
